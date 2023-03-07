@@ -1,3 +1,7 @@
+# Nama : Fransiskus Xaverius Gunawan
+# NIM  : 121140010
+# Kelas: PBO RB
+
 # Kelas
 class Frans:
     def __init__(self, nama, nim, prodi,  kelas, sks):
